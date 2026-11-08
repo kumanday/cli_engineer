@@ -15,7 +15,7 @@ The setup process is straightforward. You can get the project up and running wit
 
 ```bash
 # 1. Clone the repository
-git clone https://github.com/trilogy-group/cli_engineer.git
+git clone https://github.com/kumanday/cli_engineer.git
 
 # 2. Navigate to the project directory
 cd cli_engineer

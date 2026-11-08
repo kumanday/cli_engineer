@@ -84,7 +84,7 @@ cli_engineer --no-dashboard -v review "analyze code quality"
 ## Developer Setup
 
 ```bash
-git clone https://github.com/trilogy-group/cli_engineer
+git clone https://github.com/kumanday/cli_engineer
 cd cli_engineer
 cargo build
 cargo test
